@@ -5,3 +5,4 @@ first content in develop *6
 second content in develop *6
 content in master *6
 first content in develop *7
+second content in develop *7
